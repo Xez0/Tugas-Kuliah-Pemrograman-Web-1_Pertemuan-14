@@ -1,0 +1,20 @@
+{
+  "name": "tugas-kuliah-pemrograman-web-1-pertemuan-14",
+  "version": "1.0.0",
+  "description": "Aplikasi Web Manipulasi Variabel & Output Alur JavaScript Berdasarkan Variasi NIM 241011402572 - Pertemuan 14 Pemrograman Web 1",
+  "main": "script.js",
+  "scripts": {
+    "test": "node test_specs.js",
+    "screenshots": "python generate_screenshots.py"
+  },
+  "keywords": [
+    "pemrograman-web",
+    "universitas-pamulang",
+    "javascript-vanilla",
+    "variables",
+    "document-write",
+    "alert"
+  ],
+  "author": "Hadi Sulaiman",
+  "license": "MIT"
+}

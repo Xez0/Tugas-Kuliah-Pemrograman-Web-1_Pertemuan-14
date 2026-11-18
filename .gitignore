@@ -1,0 +1,14 @@
+# Dependency & Environment Cache
+node_modules/
+.npm/
+package-lock.json
+
+# Python & Virtualenv
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# OS Temp Files
+Thumbs.db
+.DS_Store
+*.tmp

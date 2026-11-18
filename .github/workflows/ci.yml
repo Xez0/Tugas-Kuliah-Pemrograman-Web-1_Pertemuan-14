@@ -1,0 +1,22 @@
+name: Kepatuhan Spesifikasi Tugas Pertemuan 14
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  test-specs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Jalankan Pengujian Kepatuhan NIM 241011402572
+        run: node test_specs.js

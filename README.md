@@ -125,3 +125,22 @@ Jalankan perintah berikut di terminal:
 node test_specs.js
 ```
 Hasil pengujian akan memverifikasi 18 assertion teknis dengan keluaran `18 / 18 PENGUJIAN BERHASIL (PASS)`.
+
+---
+
+## 7. Pratinjau Visual Antarmuka (Screenshots)
+
+Berikut adalah hasil tangkapan layar antarmuka yang diambil langsung dari peramban Google Chrome:
+
+### A. Tampilan Penuh Aplikasi (Overview)
+![Tampilan Penuh Portal Travel Wisata](screenshot_overview.png)
+
+### B. Grid Komparasi Nilai Variabel (Sebelum vs Sesudah)
+![Grid Komparasi Sebelum vs Sesudah](screenshot_comparison_grid.png)
+
+### C. Tabel Evaluasi Diff Perubahan Variabel
+![Tabel Evaluasi Diff Perubahan](screenshot_diff_table.png)
+
+### D. Kartu Penjelasan Makna Nilai Numerik (50 & 700)
+![Kartu Penjelasan Nilai Numerik](screenshot_numeric_explanation.png)
+
